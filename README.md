@@ -1,7 +1,7 @@
 
 # Trafic-Manager-AppService-MySQL
 
- Deploy a Web Server Instance Wordpress with Azure Trafic Manager and Flexible MySQL DataBase
+ Deploy a Azure Web Server Instance Wordpress with Azure Trafic Manager and Azure Flexible MySQL DataBase
 
  [Diagram](https://github.com/Ventsislav86/Trafic-Manager-AppService-MySQL/blob/c1d7472bdf9cf6eacf8461fe8b7f5bfc947f7205/Diagram-Wordpress-App.png)
 
