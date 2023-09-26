@@ -48,12 +48,12 @@ variable "wordpress_image" {
 
 variable "mysql_admin_user" {
   type    = string
-  default = "mysqladminun"
+  default = ""
 }
 
 
 variable "password" {
   type        = string
-  default     = "*STefan2602"
+  default     = ""
   description = "Mysql server password login"
 }
