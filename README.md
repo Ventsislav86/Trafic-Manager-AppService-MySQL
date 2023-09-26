@@ -55,7 +55,7 @@ I use the following parametars:
  - interval_in_seconds          = 30 - the interval used to check the endpoint health from a Traffic Manager probing agent. 
  - timeout_in_seconds           = 9 - The amount of time the Traffic Manager probing agent should wait before considering that check a failure when a health check probe is sent to the endpoint.
  - tolerated_number_of_failures = 3 - The number of failures a Traffic Manager probing agent tolerates before marking that endpoint as unhealthy.
-
+[trafic-manager.tf](https://github.com/Ventsislav86/Trafic-Manager-AppService-MySQL/blob/a06a1f69de9c8152a6d6284b5cdaa2d549cc47bb/traffic-manager.tf)
 
 ## Deploy MySQL Flexible Server
 Deploy MySQL Flexible server  with Flexiable Data Base and properly parametars. The MySQL server will be added with high availability Zone Redundant. For our case the firewall rule with public access will be deployed .
